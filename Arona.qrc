@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Arona">
+        <file>tellpushbutton.png</file>
+    </qresource>
+</RCC>

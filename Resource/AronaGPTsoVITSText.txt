@@ -1,0 +1,32 @@
+GPTsoVITSopen
+{
+	0
+}
+GPTweight
+{
+	ALuoNa-e10.ckpt
+}
+soVITSweight
+{
+	ALuoNa_e12_s168.pth
+}
+ReferenceFile
+{
+	refersound.wav
+}
+ReferenceText
+{
+	風紀委員会の夏季合宿トレーニングへの差し入れとして、特別ボーナスを支給中です！
+}
+ReferenceLanguage
+{
+	ja
+}
+GPTsoVITSaddress
+{
+	127.0.0.1
+}
+aronaaronaGPTsoVITSport
+{
+	9880
+}

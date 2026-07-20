@@ -1,0 +1,16 @@
+body.nomol
+{
+body.nomol
+}
+AronaMainWindow
+{
+AronaMainWindowText.txt
+}
+AronaDeepSeek
+{
+AronaDSText.txt
+}
+AronaGPTsoVITS
+{
+AronaGPTsoVITSText.txt
+}

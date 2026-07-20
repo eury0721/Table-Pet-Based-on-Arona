@@ -1,0 +1,4 @@
+originalScale
+{
+	100
+}
